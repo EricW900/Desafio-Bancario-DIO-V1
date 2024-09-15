@@ -25,7 +25,7 @@ Para rodar o projeto, você precisará de:
 
    cd desafio-bancario-v1
 
-   python banco.py
+   python desafio.py
 
 
 
